@@ -4,14 +4,18 @@ This project is the culmination of your Software Engineering course. In this pro
 
 
 My contributions in this project were mulitple. My main contribution was the dashboard for the graphical map editor were I took data from our database that was written to the map editor and translated it into charts and graphs that would display relavent information in a way that anyone could understand. Below is an image of the final dashboard.
+
 ![image](https://user-images.githubusercontent.com/101892274/196527865-5b5671fc-c7cf-445a-a1ea-6f9a6f35e00d.png)
+
 To give a quick description of the above image, the charts to the left depict the total amount of clean, dirty, and inuse (green, red, and yellow respectively) equipment on each floor of the hospital. Simply by clicking on one of the floors in the chart you can get more detailed information to the right. 
 
 
 ![1](https://user-images.githubusercontent.com/101892274/196528872-60ee978f-a4e0-4e7a-8304-dcafbc21a5fe.JPG)
+
 On the bottom right , in the nested bar charts, you can see each individual equipment type along with its total amount on each floor, nested inside is the status of the pieces of equipment again being either clean, dirty, or inuse. At a glance you can understand the ratios of the status of equipment types, but if youd like to know exact numbers its just a click away; as clicking on any of the individual bars in the chart will display its exact value. This can be seen in the infoblock floating above whichever elelment of the nested bar charts that was selected (in this case there are 28 total infusion pumps wiht 18 being clean).
 
 
 ![2](https://user-images.githubusercontent.com/101892274/196529155-1d8dc4c2-6bd3-432a-a974-f4c33f4a595a.JPG)
+
 Finally, there is one more level of detail in this dashboard presented by the table in the top right. By clicking on any of the individual bars in the chart of the levels of the hospital, displayed in the table is each individual piece of equipment in that status category on that floor (clean, dirty, inuse). As can be seen in the above image these pieces of equipment belong to the third floor and are clean. This table gives a detailed view of each equipment unit, displaying its EquipmentID, EquipmentType, Avaliability, and its CurrentLocation. This can be very useful if you need to perform an action on, or just need to know the location of any individual equipment unit.
 
