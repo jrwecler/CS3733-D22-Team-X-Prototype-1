@@ -1,6 +1,6 @@
 CS3733 Software Engineering Final Project in Collaboration with Brigham and Women's Hospital
 
-This project is the culmination of your Software Engineering course. In this project, our goal was to create a Java app that would be used by the Brigham and Women's Hospital employees and would complete various tasks. One of the main aspects of this project was creating a graphical map editor that would be used to display various service requests (Lab service request, Meal service requests, etc.) and their locations on the map. In addition to these requests, it would display all of the equipment in the hospital and their locations. Along with this map editor, there would be a dashboard that would display most of the data that showed up on the map that would be easy to understand for the employees. Separate from the map editor many service requests would be useful to the employees for whatever they needed. If they needed a meal for their patient they could request it and it would be written to the Apache Derby database to be completed.
+This project is the culmination of the Software Engineering course at Worcester Polytechnic Institute. In this project, our goal was to create a Java app that would be used by the Brigham and Women's Hospital employees and would complete various tasks. One of the main aspects of this project was creating a graphical map editor that would be used to display various service requests (Lab service request, Meal service requests, etc.) and their locations on the map. In addition to these requests, it would display all of the equipment in the hospital and their locations. Along with this map editor, there would be a dashboard that would display most of the data that showed up on the map that would be easy to understand for the employees. Separate from the map editor many service requests would be useful to the employees for whatever they needed. If they needed a meal for their patient they could request it and it would be written to the Apache Derby database to be completed.
 
 
 My contributions to this project were multiple. My main contribution was the dashboard for the graphical map editor where I took data from our database that was written to the map editor and translated it into charts and graphs that would display relevant information in a way that anyone could understand. Below is an image of the final dashboard.
@@ -35,3 +35,15 @@ Furthermore, there are 3 buttons at the bottom of the chart of the levels of the
 ![5](https://user-images.githubusercontent.com/101892274/196533730-458647b2-3be9-4cea-ae47-e3d96b1faa4e.JPG)
 
 Finally, there exists the alerts button next to the table buttons. The purpose of this is to display important alerts, in real-time, or to see past alerts that haven't yet been addressed. As an example, if someone in the client database were to alter the status of infusion pumps to make more than 10 dirty on a given floor, an alert would pop up in the dashboard (using the observer pattern) telling the employee that all 10 pumps have automatically be registered to be cleaned. Above you can see an empty chart as there are currently no outstanding alerts.
+
+
+
+
+
+![6](https://user-images.githubusercontent.com/101892274/196536094-d7fe159d-936a-459d-868d-f2522025b5fd.JPG)
+
+A few of the smaller contributions I made to this project are a few of the service requests. They work in much the same way so I will give one example. The lab service request accesses the database to fill its fields with relevant information, such as the assigned employee, patient it was requested for, service type (blood work, stool sample, etc.), destination, and status (processing or done). Once all fields all filled out a service request can be submitted and written to the database to be acted upon. I worked on the Lab Request (as can be seen above), Request Patient Meals, and Request Equipment Delivery.
+
+
+
+
