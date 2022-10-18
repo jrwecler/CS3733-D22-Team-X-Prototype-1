@@ -19,3 +19,13 @@ On the bottom right , in the nested bar charts, you can see each individual equi
 
 Finally, there is one more level of detail in this dashboard presented by the table in the top right. By clicking on any of the individual bars in the chart of the levels of the hospital, displayed in the table is each individual piece of equipment in that status category on that floor (clean, dirty, inuse). As can be seen in the above image these pieces of equipment belong to the third floor and are clean. This table gives a detailed view of each equipment unit, displaying its EquipmentID, EquipmentType, Avaliability, and its CurrentLocation. This can be very useful if you need to perform an action on, or just need to know the location of any individual equipment unit.
 
+![3](https://user-images.githubusercontent.com/101892274/196531895-3c696702-d576-4299-a786-164758291237.JPG)
+
+(Location Table)
+
+![4](https://user-images.githubusercontent.com/101892274/196531939-aa4ae68b-2ebe-432b-b6d9-2daa8740a155.JPG)
+
+(Equipment Table)
+
+Furthermore, there are 3 buttons at the bottom of the chart of the levels of the hospital these display the location table, which shows every location in the hospital, and the equipment table, which displays every piece of equipment in the hospital. Both of which are aided by a search bar that can filter by any attribute they may hold.
+
