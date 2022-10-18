@@ -4,3 +4,4 @@ This project is the culmination of your Software Engineering course. In this pro
 
 
 My contributions in this project were mulitple. My main contribution was the dashboard for the graphical map editor were I took data from our database that was written to the map editor and translated it into charts and graphs that would display relavent information in a way that anyone could understand. Below is an image of the final dashboard.
+![image](https://user-images.githubusercontent.com/101892274/196525858-c1a070cf-cb01-4720-bf57-8d9efc08f757.png)
