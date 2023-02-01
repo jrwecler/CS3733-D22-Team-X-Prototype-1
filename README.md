@@ -40,7 +40,7 @@ Furthermore, there are 3 buttons at the bottom of the chart of the levels of the
 
 Finally, there exists the alerts button next to the table buttons. The purpose of this is to display important alerts, in real-time, or to see past alerts that haven't yet been addressed. As an example, if someone in the client database were to alter the status of infusion pumps to make more than 10 dirty on a given floor, an alert would pop up in the dashboard (using the observer pattern) telling the employee that all 10 pumps have automatically be registered to be cleaned. Above you can see an empty chart as there are currently no outstanding alerts.
 
-
+---
 ### Other Work
 
 
