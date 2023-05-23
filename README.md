@@ -13,6 +13,9 @@ Login Page <br/><br/>
 ![Landing Page](https://github.com/jrwecler/CS3733-D22-Team-X-Prototype-1/assets/101900329/f7e92f03-87fc-4959-bab5-dbb585e69201)
 Landing Page <br/><br/>
 
+![Dashboard](https://github.com/jrwecler/CS3733-D22-Team-X-Prototype-1/assets/101900329/ba190036-d6bb-4fa0-b345-7d83481c9f30)
+Dashboard <br/><br/>
+
 ![Employee Viewer](https://github.com/jrwecler/CS3733-D22-Team-X-Prototype-1/assets/101900329/34de76bc-3043-4df7-ae52-8a0d62cec68d)
 Employee Viewer <br/><br/>
 
@@ -30,16 +33,10 @@ Achromatopsia Setting <br/><br/>
 ![Proton](https://github.com/jrwecler/CS3733-D22-Team-X-Prototype-1/assets/101900329/9cff566a-6120-438d-9e75-c6c1dc92140f)
 Protanopia Setting <br/><br/>
 
-Each developer also had to create their own “service request”, a type of action that an employee may need completed, whether it be janitorial services, a patient's meal delivery, or my contribution — internal patient transportation, which can be seen below. This service request takes information about the start and end location of the transportation request, as well as the patient's name, assigned staff's name, and status of the request. When a request is submitted from this page, it is populated in the graphical map editor and dashboard as mentioned previously, and shown below. <br/>
+Each developer also had to create their own “service request”, a type of action that an employee may need completed, whether it be janitorial services, a patient's meal delivery, or my contribution — internal patient transportation, which can be seen below. This service request takes information about the start and end location of the transportation request, as well as the patient's name, assigned staff's name, and status of the request. When a request is submitted from this page, it is populated in the graphical map editor as mentioned previously, and shown below. <br/>
 
 ![Inpatient](https://github.com/jrwecler/CS3733-D22-Team-X-Prototype-1/assets/101900329/f55173a7-d400-43ac-9876-12d1deed7289)
 Internal Patient Transportation <br/><br/>
 
 ![Map Editor with Table](https://github.com/jrwecler/CS3733-D22-Team-X-Prototype-1/assets/101900329/f1957aeb-9568-4f56-98d2-f339b664da94)
-Graphical Map Editor <br/><br/>
-
-![Dashboard](https://github.com/jrwecler/CS3733-D22-Team-X-Prototype-1/assets/101900329/ba190036-d6bb-4fa0-b345-7d83481c9f30)
-Dashboard
-
-
-
+Graphical Map Editor 
